@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\bin\Debug\Task_14_Name_In_Frame.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\bin\Debug\Task_14_Name_In_Frame.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\bin\Debug\Task_14_Name_In_Frame.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\obj\Debug\Task_14_Name_In_Frame.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\obj\Debug\Task_14_Name_In_Frame.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\obj\Debug\Task_14_Name_In_Frame.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\obj\Debug\Task_14_Name_In_Frame.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_14_Name_In_Frame\Task_14_Name_In_Frame\obj\Debug\Task_14_Name_In_Frame.pdb
