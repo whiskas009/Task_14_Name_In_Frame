@@ -17,13 +17,15 @@ namespace Task_14_Name_In_Frame
             string symbolForFrame = Console.ReadLine();
 
             int leghtName = name.Length;
-            string upDownFrames = "";
-            for (int i = -2; i < leghtName; i++)
-                upDownFrames += symbolForFrame;
+            string horizontalBorder = "";
+            int additionalSymbol = 2;
 
-            Console.WriteLine(upDownFrames);
+            for (int i = 0; i < leghtName + additionalSymbol; i++)
+                horizontalBorder += symbolForFrame;
+
+            Console.WriteLine(horizontalBorder);
             Console.WriteLine(symbolForFrame + name + symbolForFrame);
-            Console.WriteLine(upDownFrames);
+            Console.WriteLine(horizontalBorder);
         }
     }
 }
